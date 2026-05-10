@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner_memorycleaner.png" alt="MemoryCleaner Banner" width="100%">
+</p>
+
 <h1 align="center">🧹 MemoryCleaner — 智能内存清理工具</h1>
 
 <p align="center">
